@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\steph\Documents\College - SD\Programming 2 - Enterprise Java Programming\Assignments\Assignment 5\EJP Assignment 5\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2352741522.index
+2722796460.index
+2554537622.index
+3715574479.index
+4035768464.index
